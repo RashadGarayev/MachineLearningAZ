@@ -11,5 +11,6 @@ A-dan Z-yə Maşın Öyrənmə
     - Euclidean ,manhattan ,minkowski,hamming distance
     - Sklearn
     - Normalization
+    - K-fold cross-validation
     
 
