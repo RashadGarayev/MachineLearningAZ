@@ -8,5 +8,5 @@ A-dan Z-yə Maşın Öyrənmə
 3. Sinifləndirmə və Reqresiya modelləri (Classification and Regression)
 4. Sinifləndirmə
   - Dostunu göstər, sənin kim olduğunu deyim.Knn (k-nearest neighbors algorithm - ən yaxın qonşu metodu)
-    - Euclidean distance,manhattan distance,minkowski,hamming distance
+    - Euclidean ,manhattan ,minkowski,hamming distance
 
