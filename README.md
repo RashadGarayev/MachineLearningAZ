@@ -9,4 +9,7 @@ A-dan Z-yə Maşın Öyrənmə
 4. Sinifləndirmə
   - Dostunu göstər, sənin kim olduğunu deyim.Knn (k-nearest neighbors algorithm - ən yaxın qonşu metodu)
     - Euclidean ,manhattan ,minkowski,hamming distance
+    - Sklearn
+    - Normalization
+    
 
