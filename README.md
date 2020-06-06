@@ -12,5 +12,6 @@ A-dan Z-yə Maşın Öyrənmə
     - Sklearn
     - Normalization
     - K-fold cross-validation
+    - Praktiki həllər
     
 
