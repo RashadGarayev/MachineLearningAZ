@@ -13,5 +13,7 @@ A-dan Z-yə Maşın Öyrənmə
     - Normalization
     - K-fold cross-validation
     - Praktiki həllər(Ortopedik Dataset)
+    - GridSearchCV
+    - RandomizedSearchCV
     
 
