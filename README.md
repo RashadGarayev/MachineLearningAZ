@@ -16,5 +16,8 @@ A-dan Z-yə Maşın Öyrənmə
     - GridSearchCV
     - RandomizedSearchCV
     - Iris data and KNN classification
-5. Linear regression (Xətti reqressiya)
+5. Regression (Reqressiya)
+  - Ümumi giriş
+  - Linear Regression (Xətti Reqressiya)
+  - Polynomial regression (Polinomial Reqressiya)
 
