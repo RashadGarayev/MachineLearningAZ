@@ -15,5 +15,5 @@ A-dan Z-yə Maşın Öyrənmə
     - Praktiki həllər(Ortopedik Dataset)
     - GridSearchCV
     - RandomizedSearchCV
-    
+5. Linear regression
 
