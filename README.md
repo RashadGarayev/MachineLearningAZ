@@ -2,7 +2,7 @@
 # Machine Learning 
 A-dan Z-yə Maşın Öyrənmə
 
-<img src="../MachineLearningAz/image/text74.png" />
+<img src="text74.png" />
 
 
 
