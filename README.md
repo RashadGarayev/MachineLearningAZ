@@ -1,3 +1,7 @@
+<img src="../MachineLearningAz/image/text74.png" alt="My cool logo"/>
+
+
+
 # Machine Learning 
 A-dan Z-yə Maşın Öyrənmə
 
