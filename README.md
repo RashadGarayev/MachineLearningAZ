@@ -25,7 +25,7 @@ A-dan Z-yə Maşın Öyrənmə
     - Iris data and KNN classification
 5. Regression (Reqressiya)
   
-  - Ümumi giriş
+    - Ümumi giriş
     - Linear Regression (Xətti Reqressiya)
     - Polynomial regression (Polinomial Reqressiya)
     - Ridge,Lasso ElasticNet 
