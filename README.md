@@ -26,4 +26,6 @@ A-dan Z-yə Maşın Öyrənmə
   - Ümumi giriş
   - Linear Regression (Xətti Reqressiya)
   - Polynomial regression (Polinomial Reqressiya)
+   - Ridge,Lasso ElasticNet 
+   - Praktika
 
