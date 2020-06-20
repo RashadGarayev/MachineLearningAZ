@@ -30,4 +30,6 @@ A-dan Z-yə Maşın Öyrənmə
     - Polynomial regression (Polinomial Reqressiya)
     - Ridge,Lasso ElasticNet 
     - Praktika
+    
+6. Logistic Regression (Logistik Reqressiya)
 
