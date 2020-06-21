@@ -32,4 +32,6 @@ A-dan Z-yə Maşın Öyrənmə
     - Praktika
     
 6. Logistic Regression (Logistik Reqressiya)
+  - Ümumi giriş
+    - Praktika
 
