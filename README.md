@@ -34,4 +34,6 @@ A-dan Z-yə Maşın Öyrənmə
 6. Logistic Regression (Logistik Reqressiya)
   - Ümumi giriş
     - Praktika
+    
+7. Support Vector Machine (Dəstək vektor maşınları)
 
