@@ -36,8 +36,8 @@ A-dan Z-yə Maşın Öyrənmə
     - Praktika
     
 7. Support Vector Machine (Dəstək vektor maşınları)
-  - Xətti və Qeyri xətdi (Linear and Nonlinear)
-  - Kernel
-  - Lagrange Funksiyası
-  - Praktika
+    - Xətti və Qeyri xətdi (Linear and Nonlinear)
+    - Kernel
+    - Lagrange Funksiyası
+    - Praktika
 
